@@ -1,2 +1,0 @@
-model_checkpoint_path: "CVAE_weights"
-all_model_checkpoint_paths: "CVAE_weights"

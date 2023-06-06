@@ -388,18 +388,22 @@ def plot_rsa_results(rsa_results,ax=None,title=None,xlbls=['BG','SL','VAE']):
         ax.set_title(title)
         
         
-def make_RDM(inVec,data_scale='ratio',metric='euclidean'):
-    vec = inVec
-    vec = (vec - min(vec.flatten())) / (max(vec.flatten())-min(vec.flatten()))
+# def make_RDM(inVec, data_scale='ratio', metric='euclidean'):
+#     vec = inVec
+#     def fun(u,v):
+#         const = 0 if u[0] == v[0] else 1
+#         return np.sqrt(const**2 + (u[1]-v[1])**2)
+#     if data_scale=='ratio':
+#         vec = (vec - min(vec.flatten())) / (max(vec.flatten())-min(vec.flatten()))
     
-    if np.ndim(inVec)==1: # must be at least 2D
-        vec = np.vstack((vec,np.zeros(vec.shape))).transpose()
-                   
-    mat = squareform(pdist(vec,metric=metric).transpose())
-    if data_scale=='ordinal':
-        mat[mat!=0]=1 # Make into zeros and ones
-        
-    return mat
+#     if np.ndim(inVec)==1: # must be at least 2D
+#         vec = np.vstack((vec,np.zeros(vec.shape))).transpose()
+# #     if data_scale=='ordinal':
+# #         mat = squareform(pdist(vec, fun).transpose())
+
+# #         mat[mat!=0]=1 # Make into zeros and ones
+# #     mat = squareform(pdist(vec,metric=metric).transpose())
+#     return vec
 
 
 def get_triu(inMat):
@@ -411,7 +415,7 @@ def get_triu(inMat):
     return triu_vec
 
 
-def plot_pca_rsa(keys,df,ABIDE_data,patients,encs,xlbls=['BG','SL','VAE'],thresh=.25):
+def plot_pca_rsa(keys,df,BRAIN_data,patients,encs,xlbls=['BG','SL','VAE'],thresh=.25):
     '''Takes in an array of scores. Does PCA on them. Calculates RSA based on PCA. 
     If PC explains morethan .25 of total variance - plots model fit and results'''
     
