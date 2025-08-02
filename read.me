@@ -1,0 +1,36 @@
+# 🧠  Bilingualism CVAE: Contrastive learning and Variations in Bilingualism
+
+## 🧪 Project Overview
+
+This project investigates the variations in bilinguals by using CVAE, a contrastive learning methods
+
+Key components:
+- Collect and preprocess MRI data (fmriPrep)
+- Train VAE and CVAE by using monolingual and bilinguals brains
+- Get each brains VAE and CVAE vectors
+- Map VAE and CVAE vectors to behavioral measures
+- Synthetic twin brain, localize variations
+
+
+## 📁 Repository Structure
+- Data
+|-- Bilingualism_CVAE
+|--|-- Hernandez        #preprocessed data from Prof. Hernandez
+|--|-- pliatsikas       #preprocessed data from Prof. Pliatsikas, OpenNuro
+|--|-- preprocessed     #publicly available datasets, raw and preprocessed data, also including preprocessing scripts
+- Documents
+|-- Bilingualism_CVAE
+|--|-- data
+|--|--|-- aligned_brains     #brain-as-arrays, after aligment
+|--|--|-- array_brains       #brain-as-arrayrs, before alignment
+|--|--|-- excluded     
+|--|--|-- extracted_brains   
+|--|--|-- latent_vecs        #learned-brain-vectors, predicted by trained models
+|--|--|-- legend             #demographic and behavioral information
+|--|--|-- tf_outputs         #trained model weights
+|--|-- misc                  #unorganized code, maybe useful 
+|--|-- project_bilingualism  
+|--|--|-- script
+|--|--|--|-- array_create    #extract brain tissue and get arrays
+|--|--|--|-- CVAE_notebook   #train models, extract latent vectors, RSA
+|--|--|--|-- demographic     #organize demographic information
