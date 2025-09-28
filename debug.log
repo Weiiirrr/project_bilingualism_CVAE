@@ -1,0 +1,77 @@
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:matplotlib:matplotlib data path: /home/liacz/.conda/envs/CVAE/lib/python3.9/site-packages/matplotlib/mpl-data
+DEBUG:matplotlib:CONFIGDIR=/home/liacz/.config/matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is linux
+DEBUG:matplotlib:CACHEDIR=/home/liacz/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/liacz/.cache/matplotlib/fontlist-v390.json
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:matplotlib:matplotlib data path: /home/liacz/.conda/envs/CVAE/lib/python3.9/site-packages/matplotlib/mpl-data
+DEBUG:matplotlib:CONFIGDIR=/home/liacz/.config/matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is linux
+DEBUG:matplotlib:CACHEDIR=/home/liacz/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/liacz/.cache/matplotlib/fontlist-v390.json
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:matplotlib:matplotlib data path: /home/liacz/.conda/envs/CVAE/lib/python3.9/site-packages/matplotlib/mpl-data
+DEBUG:matplotlib:CONFIGDIR=/home/liacz/.config/matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is linux
+DEBUG:matplotlib:CACHEDIR=/home/liacz/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/liacz/.cache/matplotlib/fontlist-v390.json
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:matplotlib:matplotlib data path: /home/liacz/.conda/envs/CVAE/lib/python3.9/site-packages/matplotlib/mpl-data
+DEBUG:matplotlib:CONFIGDIR=/home/liacz/.config/matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is linux
+DEBUG:matplotlib:CACHEDIR=/home/liacz/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/liacz/.cache/matplotlib/fontlist-v390.json
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:matplotlib:matplotlib data path: /home/liacz/.conda/envs/CVAE/lib/python3.9/site-packages/matplotlib/mpl-data
+DEBUG:matplotlib:CONFIGDIR=/home/liacz/.config/matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is linux
+DEBUG:matplotlib:CACHEDIR=/home/liacz/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/liacz/.cache/matplotlib/fontlist-v390.json
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:matplotlib:matplotlib data path: /home/liacz/.conda/envs/CVAE/lib/python3.9/site-packages/matplotlib/mpl-data
+DEBUG:matplotlib:CONFIGDIR=/home/liacz/.config/matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is linux
+DEBUG:matplotlib:CACHEDIR=/home/liacz/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/liacz/.cache/matplotlib/fontlist-v390.json
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:matplotlib:matplotlib data path: /home/liacz/.conda/envs/CVAE/lib/python3.9/site-packages/matplotlib/mpl-data
+DEBUG:matplotlib:CONFIGDIR=/home/liacz/.config/matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is linux
+DEBUG:matplotlib:CACHEDIR=/home/liacz/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/liacz/.cache/matplotlib/fontlist-v390.json
